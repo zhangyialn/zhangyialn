@@ -1,1 +1,1 @@
-a student
+a student from a university
